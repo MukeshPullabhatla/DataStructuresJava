@@ -1,0 +1,23 @@
+
+public class RunningSumOf1dArray {
+	public int[] runningSum(int[] nums) {
+		
+		int i=0,j=0;
+		
+		for(i=0;i<nums.length-1;i++) {
+			for(j=0;j<nums.length;j++) {
+				nums[i] = nums[i]+nums[j];
+			}
+		}
+		return nums;
+		
+	}
+	public static void main(String[] args) {
+		int nums[] = {1,1,1,1,1};
+		RunningSumOf1dArray ob = new RunningSumOf1dArray();
+		int[] result = ob.runningSum(nums);
+		System.out.println(result);
+	}
+	
+
+}
