@@ -12,7 +12,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 3438490363.index
 573747433.index
 901777824.index
-1459523266.index
 4159342829.index
 3941211945.index
 1083389609.index
@@ -33,9 +32,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 904596477.index
 35564969.index
 967810169.index
-3429681154.index
-646436966.index
-379664343.index
 2751480051.index
 552471613.index
 385249412.index
@@ -52,13 +48,11 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2546556386.index
 3805463496.index
 1919096803.index
-3973945260.index
 568535041.index
 1689103702.index
 2576366639.index
 3196616720.index
 2191141194.index
-2975910402.index
 3132509078.index
 3546545280.index
 749833852.index
@@ -77,12 +71,9 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 3742894457.index
 2493397832.index
 3698481195.index
-1151569180.index
 1012971755.index
 1778030087.index
 3068204892.index
-4120324546.index
-2060039664.index
 1998807671.index
 1985775041.index
 1443656097.index
@@ -104,9 +95,8 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2057868505.index
 3867729418.index
 329731669.index
-2755271588.index
-3923539333.index
 1657330681.index
+3923539333.index
 1590513250.index
 2062163159.index
 2222204037.index
@@ -117,14 +107,16 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2837538219.index
 3936622254.index
 3453185653.index
-2845807539.index
+1818320769.index
 3498066710.index
-1757137509.index
 3562937749.index
 2370505351.index
 1687773848.index
-842350724.index
 1568965357.index
+842350724.index
+1757137509.index
+2010876528.index
+1533282211.index
 2434491208.index
 2773142729.index
 604162901.index
@@ -133,9 +125,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 1806468056.index
 1225383966.index
 1637411098.index
-2772419465.index
-753608048.index
-4069293921.index
 3740451998.index
 1501198497.index
 3555747415.index
@@ -144,7 +133,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2836621782.index
 185314711.index
 3633890640.index
-3384131066.index
 1241440411.index
 1632340243.index
 807941137.index
@@ -160,7 +148,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2561785782.index
 2625371560.index
 3248723797.index
-3572716771.index
 3078093217.index
 2065327609.index
 1671818451.index
@@ -173,7 +160,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 2210491249.index
 538432235.index
 1877439238.index
-165794779.index
 2873070651.index
 1745062535.index
 3587279814.index
@@ -190,7 +176,6 @@ INDEX VERSION 1.131+D:\sele\.metadata\.plugins\org.eclipse.jdt.core
 3458883998.index
 3199858908.index
 1164164160.index
-364096953.index
 433328410.index
 950539899.index
 3040256769.index
